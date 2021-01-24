@@ -39,6 +39,21 @@ li{
     margin: 5px 20px ;
     padding-right: 5px;
     font-size: 20px;
-    
     color:rgb(22, 21, 21);
+}
+.work-highlight{
+     color:tomato;
+}
+.work-header{
+ text-align: center;
+}
+.work-card{   
+ width:28%;
+ float: left;
+ margin-right: 1%;
+ margin-left: 1%;
+ padding:1%;
+}
+.work-card img{
+    width:100%;
 }
