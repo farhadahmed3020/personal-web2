@@ -50,9 +50,8 @@ li{
 .work-place{   
  width:28%;
  float: left;
- margin-right: 1%;
- margin-left: 1%;
  padding:1%;
+ margin: 1%;
 }
 .work-place img{
     width:100%;
@@ -65,8 +64,25 @@ li{
     margin: 10px;
     padding:10px;
 }
-.working-arey{
+.working-area{
     background-color: grey;
     border-radius: 10px;
     height: 500px;
+    background-repeat: no-repeat;
+}
+.banner{
+    background-image: url("img/shapes/Group_33094_1.png");
+     height:10%;
+     padding:10%;
+     margin:10%;
+    background-repeat: no-repeat;
+    border-radius:70px;
+    width: 60%;
+
+}
+.inquiry-style{
+    color:white;
+    text-align:justify;
+    
+    
 }
