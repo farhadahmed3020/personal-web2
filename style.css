@@ -4,7 +4,7 @@ body{
 h1{
     font-size: 55px;
 }
-.heade-highlight{
+.header-highlight{
     color: #4f569e;
 }
 .name-highlight{
@@ -28,7 +28,7 @@ h1{
     width:100%;
 }
 section{
-    height: 500px;
+    height: 600px;
 }
 .header{
     height: 20px;
@@ -47,13 +47,26 @@ li{
 .work-header{
  text-align: center;
 }
-.work-card{   
+.work-place{   
  width:28%;
  float: left;
  margin-right: 1%;
  margin-left: 1%;
  padding:1%;
 }
-.work-card img{
+.work-place img{
     width:100%;
+}
+.project-card{
+    box-shadow: 10px 10px 40px white;
+    border-radius: 10px;
+    background-color: aliceblue;
+    height: 350px;
+    margin: 10px;
+    padding:10px;
+}
+.working-arey{
+    background-color: grey;
+    border-radius: 10px;
+    height: 500px;
 }
